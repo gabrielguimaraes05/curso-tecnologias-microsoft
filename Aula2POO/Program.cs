@@ -13,6 +13,9 @@ namespace Aula2POO
             // C2
             // C5
             // C6
+            // C3
+            // C8
+            // C9
         }
     }
 }
