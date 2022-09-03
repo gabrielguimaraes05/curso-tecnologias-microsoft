@@ -10,6 +10,7 @@ namespace Aula2POO
             Console.WriteLine("Hello World");
             // Mais comentários
             // C1
+            // C2
         }
     }
 }
