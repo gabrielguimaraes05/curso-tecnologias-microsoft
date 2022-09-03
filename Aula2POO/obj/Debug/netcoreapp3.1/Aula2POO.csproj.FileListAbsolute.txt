@@ -1,0 +1,14 @@
+C:\Users\vntgape\source\repos\Aula2POO\Aula2POO\bin\Debug\netcoreapp3.1\Aula2POO.exe
+C:\Users\vntgape\source\repos\Aula2POO\Aula2POO\bin\Debug\netcoreapp3.1\Aula2POO.deps.json
+C:\Users\vntgape\source\repos\Aula2POO\Aula2POO\bin\Debug\netcoreapp3.1\Aula2POO.runtimeconfig.json
+C:\Users\vntgape\source\repos\Aula2POO\Aula2POO\bin\Debug\netcoreapp3.1\Aula2POO.runtimeconfig.dev.json
+C:\Users\vntgape\source\repos\Aula2POO\Aula2POO\bin\Debug\netcoreapp3.1\Aula2POO.dll
+C:\Users\vntgape\source\repos\Aula2POO\Aula2POO\bin\Debug\netcoreapp3.1\Aula2POO.pdb
+C:\Users\vntgape\source\repos\Aula2POO\Aula2POO\obj\Debug\netcoreapp3.1\Aula2POO.csproj.AssemblyReference.cache
+C:\Users\vntgape\source\repos\Aula2POO\Aula2POO\obj\Debug\netcoreapp3.1\Aula2POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\vntgape\source\repos\Aula2POO\Aula2POO\obj\Debug\netcoreapp3.1\Aula2POO.AssemblyInfoInputs.cache
+C:\Users\vntgape\source\repos\Aula2POO\Aula2POO\obj\Debug\netcoreapp3.1\Aula2POO.AssemblyInfo.cs
+C:\Users\vntgape\source\repos\Aula2POO\Aula2POO\obj\Debug\netcoreapp3.1\Aula2POO.csproj.CoreCompileInputs.cache
+C:\Users\vntgape\source\repos\Aula2POO\Aula2POO\obj\Debug\netcoreapp3.1\Aula2POO.dll
+C:\Users\vntgape\source\repos\Aula2POO\Aula2POO\obj\Debug\netcoreapp3.1\Aula2POO.pdb
+C:\Users\vntgape\source\repos\Aula2POO\Aula2POO\obj\Debug\netcoreapp3.1\Aula2POO.genruntimeconfig.cache
